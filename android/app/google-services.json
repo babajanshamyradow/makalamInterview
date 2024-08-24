@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239922204667",
+    "project_id": "my-app-check-e232b",
+    "storage_bucket": "my-app-check-e232b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239922204667:android:8e4fd9ffd030dbe5ea855e",
+        "android_client_info": {
+          "package_name": "com.example.my_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTZmyCgRDielGZuvTxnhwQk9QaYnFyC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
